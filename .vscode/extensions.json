@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "chdsbd.github-code-owners",
+    "davidanson.vscode-markdownlint",
+    "editorconfig.editorconfig",
+    "github.vscode-github-actions",
+    "github.vscode-pull-request-github",
+    "redhat.vscode-yaml",
+    "yy0931.gitconfig-lsp"
+  ]
+}
